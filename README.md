@@ -30,13 +30,13 @@ The card displays:
 
 
 
-## 📱 Responsive Design
+##  Responsive Design
 
 The layout adapts for screens under 500px:
 - Smaller font sizes
 - Adjusted padding for mobile usability
 
-## ⚙️ Technologies
+##  Technologies
 
 - HTML5
 - CSS3 (Media queries for responsiveness)
