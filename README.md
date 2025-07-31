@@ -26,7 +26,8 @@ project/
 The card displays:
 - A balance (`$0`)
 - Two buttons: **Deposit** (green) and **Withdraw** (red)
-![Banking UI Screenshot](Screenshot-2025-07-30-222258.png)
+![Banking UI Screenshot](Screenshot%202025-07-30%20222258.png)
+
 
 
 ## 📱 Responsive Design
